@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/YT-ACM-ICPC.iml" filepath="$PROJECT_DIR$/.idea/YT-ACM-ICPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/common/common.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/common/core/core.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/common/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/modules/evaluation/evaluation.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/modules/evaluation/evaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/gateway/gateway.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/modules/modules.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/online-judge.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/online-judge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-work/user/chujian/online-judge/user-center/user-center.iml" filepath="$PROJECT_DIR$/project-work/user/chujian/online-judge/user-center/user-center.iml" />
+    </modules>
+  </component>
+</project>

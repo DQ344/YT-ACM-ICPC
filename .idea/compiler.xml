@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="evaluation" />
+        <module name="core" />
+        <module name="user-center" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="8" />
+      <module name="core" target="8" />
+      <module name="evaluation" target="8" />
+      <module name="gateway" target="8" />
+      <module name="modules" target="8" />
+      <module name="online-judge" target="8" />
+      <module name="user-center" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
