@@ -1,0 +1,4 @@
+target:
+  dir:
+    compile: D:\code\test\compile\
+    run: D:\code\test\run\
